@@ -1,0 +1,5 @@
+1. git status -s
+2. git commit -m "Changed Content"
+3. git log
+4. git diff
+5. 
